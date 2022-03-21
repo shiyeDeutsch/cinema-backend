@@ -1,0 +1,15 @@
+[
+    {
+        "id": "621bb6a5706393a09a6609e5",
+        "permissions": {
+            "view_subscriptions": true,
+            "create_subscriptions": true,
+            "delete_subscriptions": true,
+            "update_subscriptions": true,
+            "view_movies": true,
+            "create_movies": true,
+            "delete_movies": true,
+            "update_movies": true
+        }
+    }
+]
